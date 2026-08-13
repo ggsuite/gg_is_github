@@ -1,10 +1,10 @@
 name: gg_is_github
 description: Provides a method isGitHubAction which returns true if the currenct directory is running as part of a GitHub action.
-version: 1.0.7
+version: 1.1.0
 repository: https://github.com/inlavigo/gg_is_github.git
 
 environment:
-  sdk: ">=3.8.0 <4.0.0"
+  sdk: ">=3.13.0 <4.0.0"
 
 dependencies:
   path: ^1.9.1

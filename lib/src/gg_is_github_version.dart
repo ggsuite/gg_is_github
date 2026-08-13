@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_is_github` package.
-const String ggIsGithubVersion = '1.0.7';
+const String ggIsGithubVersion = '1.1.0';
