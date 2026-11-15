@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Upgrade the DNA
+
 ## 1.2.4 - 2026-11-06
 
 ## 1.2.3 - 2026-10-16
